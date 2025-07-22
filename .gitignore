@@ -1,0 +1,45 @@
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Build outputs
+/target/
+/out/
+/build/
+
+# Log files
+/logs/
+*.log
+
+# Temp/test files
+*.token
+*.json
+*.class
+*.jar
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Others
+HELP.md
+insert_testuser.sql
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Keep source code and resources in src
+!src/**
